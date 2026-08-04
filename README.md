@@ -1,42 +1,34 @@
-# Olá, eu sou Rayanne Oliveira 👋
+👋 Hi, I'm Rayanne Oliveira
 
-💼 Profissional com mais de 5 anos de experiência em suporte técnico e operações.
+💡 About Me
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+I'm an Analysis and Development of Systems student with over 5 years of experience in Technical Support and Operations.
 
-🔍 Em transição para a área de Qualidade de Software (QA).
+Currently, I'm transitioning to Software Quality Assurance (QA), focusing on manual testing, test automation, API testing, and software requirements.
 
-## Tecnologias e conhecimentos
+🛠️ Technical Skills
 
-- Cypress
-- Testes Manuais
-- Testes de API
-- JavaScript
-- HTML e CSS
-- SQL
-- Git e GitHub
-- GitHub Actions (em aprendizado)
-- Scrum e Kanban
+- **Testing:** Manual Testing, Cypress, API Testing
+- **Languages:** JavaScript, HTML5, CSS3
+- **Database:** SQL
+- **Tools:** Git, GitHub, GitHub Actions (Learning)
+- **Methodologies:** Scrum, Kanban
 
-## Projetos
+🚀 Projects
 
-### QA Tester Simulator
+- 📋 Software Requirements Project
+- 🧪 QA Test Simulator
+- ⚡ WebDojo (Cypress)
 
-Projeto desenvolvido para praticar conceitos de QA, validação de dados e testes funcionais utilizando HTML, CSS e JavaScript.
+📚 Currently Learning
 
-🔗 Projeto:
-https://rayoliveira0309.github.io/meu-primeiro-projeto/
+- Cypress Test Automation
+- API Testing
+- Node.js & Express
+- GitHub Actions (CI/CD)
+- Software Requirements Engineering
 
-## Atualmente estudando
+📫 Contact
 
-- Cypress Ninja
-- Automação de Testes Web
-- Testes de API
-- Node.js e Express
-- CI/CD com GitHub Actions
-- Cypress Cloud
-
-## Contato
-
-💼 LinkedIn:
-https://linkedin.com/in/rayanne-oliveira-ads
+- 💼 LinkedIn: linkedin.com/in/rayanne-oliveira-ads
+- 📧 Email: raya.karen28@gmail.com
