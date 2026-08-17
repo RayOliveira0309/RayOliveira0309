@@ -1,34 +1,48 @@
-👋 Hi, I'm Rayanne Oliveira
+# Olá, eu sou a Rayanne Oliveira 👋
+### Analista de Testes | Quality Assurance (QA)
 
-💡 About Me
+Analista de Testes e Quality Assurance com mais de 5 anos de experiência em tecnologia, suporte e operações no setor financeiro e automotivo (Banco BV / NaPista, Simplificauto e Honda). Atuo com foco na estabilidade de aplicações, validação rigorosa de regras de negócio, prevenção de falhas e melhoria contínua da experiência do usuário final.
 
-I'm an Analysis and Development of Systems student with over 5 years of experience in Technical Support and Operations.
+---
 
-Currently, I'm transitioning to Software Quality Assurance (QA), focusing on manual testing, test automation, API testing, and software requirements.
+### 🛠️ Competências & Ferramentas
 
-🛠️ Technical Skills
+* **Testes & Qualidade:** Testes Manuais, Testes Exploratórios, Escrita de Casos de Teste, Reporte de Bugs, Evidência de Testes, Testes de API, Cypress.
+* **Análise de Requisitos:** Histórias de Usuário, Critérios de Aceitação, Example Mapping, Mapeamento de Regras de Negócio.
+* **Tecnologias & Banco de Dados:** SQL, JavaScript, HTML5, CSS3, Git, GitHub.
+* **Gestão & Metodologias:** Scrum, Kanban, Gestão de SLAs, Triagem de Incidentes N1/N2, ClickUp, Trello, Excel.
 
-- **Testing:** Manual Testing, Cypress, API Testing
-- **Languages:** JavaScript, HTML5, CSS3
-- **Database:** SQL
-- **Tools:** Git, GitHub, GitHub Actions (Learning)
-- **Methodologies:** Scrum, Kanban
+---
 
-🚀 Projects
+### 🚀 Portfólio & Projetos de QA
 
-- 📋 Software Requirements Project
-- 🧪 QA Test Simulator
-- ⚡ WebDojo (Cypress)
+#### 🧪 [Simulador de Testes QA](https://rayoliveira0309.github.io/meu-primeiro-projeto/)
+* **Descrição:** Aplicação web interativa desenvolvida para simular e validar cenários de teste, fluxos de exceção e regras de negócio de formulários.
+* **Tecnologias:** HTML5, CSS3, JavaScript.
+* **Links:** [Acessar Aplicação Rodando](https://rayoliveira0309.github.io/meu-primeiro-projeto/) | [Ver Código no Repositório](https://github.com/RayOliveira0309/meu-primeiro-projeto)
 
-📚 Currently Learning
+#### ⚡ [Automação Web e API com Cypress](https://github.com/RayOliveira0309)
+* **Descrição:** Suíte de testes automatizados E2E desenvolvida para validação de cenários de navegação, elementos de interface e fluxos críticos.
+* **Tecnologias:** Cypress, JavaScript, Node.js.
 
-- Cypress Test Automation
-- API Testing
-- Node.js & Express
-- GitHub Actions (CI/CD)
-- Software Requirements Engineering
+#### 📋 [Engenharia e Análise de Requisitos](https://github.com/RayOliveira0309)
+* **Descrição:** Mapeamento de histórias de usuário, levantamento de critérios de aceitação e aplicação de Example Mapping para alinhamento de qualidade antes do desenvolvimento.
 
-📫 Contact
+---
+
+### 🎓 Formação & Aperfeiçoamento
+
+* **Graduação:** Análise e Desenvolvimento de Sistemas (ADS) — Faculdade Facint *(Previsão: 2027)*
+* **Especializações:**
+  * Automação de Testes Web e API com Cypress — QAzando *(Em andamento)*
+  * Análise de Requisitos com Histórias de Usuários e Example Mapping
+  * Inglês Técnico para TI — Udemy *(Em andamento)*
+  * Imersão Prática em QA e Testes de Software — QAzando
+  * SQL para Análise de Dados
+
+---
+
+### 📫 Contato & Conexão
 
 - 💼 LinkedIn: linkedin.com/in/rayanne-oliveira-ads
 - 📧 Email: raya.karen28@gmail.com
