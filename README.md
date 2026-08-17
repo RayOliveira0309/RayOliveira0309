@@ -16,17 +16,19 @@ Analista de Testes e Quality Assurance com mais de 5 anos de experiência em tec
 
 ### 🚀 Portfólio & Projetos de QA
 
-#### 🧪 [Simulador de Testes QA](https://rayoliveira0309.github.io/meu-primeiro-projeto/)
-* **Descrição:** Aplicação web interativa desenvolvida para simular e validar cenários de teste, fluxos de exceção e regras de negócio de formulários.
+#### 🧪 [Simulador de Testes QA](https://github.com/RayOliveira0309/qa-tester-simulator)
+* **Descrição:** Aplicação web interativa para simulação e validação de cenários de teste, fluxos de exceção e regras de negócio.
 * **Tecnologias:** HTML5, CSS3, JavaScript.
-* **Links:** [Acessar Aplicação Rodando](https://rayoliveira0309.github.io/meu-primeiro-projeto/) | [Ver Código no Repositório](https://github.com/RayOliveira0309/meu-primeiro-projeto)
+* **Links:** [Acessar Aplicação Rodando](https://rayoliveira0309.github.io/meu-primeiro-projeto/) | [Ver Código no Repositório](https://github.com/RayOliveira0309/qa-tester-simulator)
 
-#### ⚡ [Automação Web e API com Cypress](https://github.com/RayOliveira0309)
-* **Descrição:** Suíte de testes automatizados E2E desenvolvida para validação de cenários de navegação, elementos de interface e fluxos críticos.
+#### ⚡ [WebDojo — Automação E2E em Cypress](https://github.com/RayOliveira0309/webdojo)
+* **Descrição:** Suíte de testes automatizados web desenvolvida para validação de cenários de navegação, elementos de interface e fluxos críticos.
 * **Tecnologias:** Cypress, JavaScript, Node.js.
 
-#### 📋 [Engenharia e Análise de Requisitos](https://github.com/RayOliveira0309)
-* **Descrição:** Mapeamento de histórias de usuário, levantamento de critérios de aceitação e aplicação de Example Mapping para alinhamento de qualidade antes do desenvolvimento.
+#### 📋 [Example Mapping — Pagamento de Anúncio](https://github.com/RayOliveira0309/example-mapping-pagamento-anuncio)
+* **Descrição:** Mapeamento de regras de negócio, histórias de usuário e critérios de aceitação para fluxo de pagamento de anúncios antes do desenvolvimento.
+
+---
 
 ---
 
